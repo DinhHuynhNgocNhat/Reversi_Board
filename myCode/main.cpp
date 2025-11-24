@@ -16,7 +16,7 @@ int main ()
     // TODO: Add your program code here
 	ReversiBoard board;
 	ReversiConsoleView  view(&board);
-	cout << "Reversi Board by Nhat Dinh " << endl;
+	cout << "Reversi Board by Nhat Dinh, Matrl: 1134320 " << endl;
 	int skip=0;
 	int turn=1;
 	fieldStatus player=X;
