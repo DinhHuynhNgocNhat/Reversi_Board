@@ -1,3 +1,5 @@
+This exercise is to implement a board for playing Reversi (https://en.wikipedia.org/wiki/Reversi).
+ 
 A class ReversiBoard represents the state of the board, i.e. which fields are empty,
 occupied with a piece with player 1’s color up or occupied with player 2’s color up. Use an
 enumeration to represent the fields' states.
