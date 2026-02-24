@@ -1,4 +1,4 @@
-### **Reversi Board**
+# **Reversi Board**
 
 This project implements the core components of a console-based Reversi game (also known as Reversi).
 
@@ -17,7 +17,7 @@ Develop a small console application that:
 - Is fully documented using Doxygen.
 
 ## 🧩 **Implemented Classes**
-# **1. ReversiBoard**
+### **1. ReversiBoard**
 
 **Represents the internal state of the game board.**
 
@@ -41,7 +41,7 @@ Technical requirements:
 
 - Encapsulate board data properly
 
-# **2. ReversiConsoleView**
+### **2. ReversiConsoleView**
 
 **Responsible for displaying the board in the console.**
 
