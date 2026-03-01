@@ -4,6 +4,8 @@ This project implements the core components of a console-based Reversi game (als
 
 The goal of this exercise is to apply object-oriented programming principles in C++ by separating game logic and user interface into distinct classes, and by providing proper UML diagrams and Doxygen documentation.
 
+The GUI of this board: https://github.com/DinhHuynhNgocNhat/Reversi-Board-GUI
+
 ## 🎯 **Objective**
 
 Develop a small console application that:
